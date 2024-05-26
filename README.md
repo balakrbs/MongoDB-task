@@ -1,0 +1,1 @@
+The MongoDB task was completed using Visual Studio Code. The queries are saved in a file named "Mongodb-task-Queries.mongodb," and the outputs for these queries can be found in the "Output-Documents" folder, each named according to the respective question.
